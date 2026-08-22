@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Manjot Singh 👋</h1>
 
-<p align="center">
-  <strong>DevOps Engineer | Cloud & Infrastructure Enthusiast</strong>
-</p>
+<p align="center"><strong>DevOps Engineer | Cloud & Infrastructure Enthusiast</strong></p>
 
-<p align="center">
-  I build reliable delivery pipelines and cloud environments with AWS, Docker, Kubernetes, Jenkins, and Linux.
-</p>
+<p align="center">I build reliable delivery pipelines and cloud environments with AWS, Docker, Kubernetes, Jenkins, and Linux.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manjot-singh-8b15aa2a9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -23,9 +19,7 @@
 
 ## What I work with
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git,github,nginx,mysql,mongodb,prometheus,grafana" alt="AWS, Docker, Kubernetes, Jenkins, Linux, Bash, Git, GitHub, Nginx, MySQL, MongoDB, Prometheus, and Grafana" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git,github,nginx,mysql,mongodb,prometheus,grafana" alt="AWS, Docker, Kubernetes, Jenkins, Linux, Bash, Git, GitHub, Nginx, MySQL, MongoDB, Prometheus, and Grafana" /></p>
 
 ## Selected work
 
@@ -47,18 +41,6 @@ Deployed a responsive static website to AWS EC2 using Docker and Nginx, with cus
 - Deepening Kubernetes administration and production monitoring skills.
 - Creating cloud-native projects that emphasize reliability, observability, and clean deployment workflows.
 
-## GitHub activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ManjotSingh531&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Manjot Singh's GitHub statistics" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManjotSingh531&hide_border=true" alt="Manjot Singh's GitHub contribution streak" />
-</p>
-
 ---
 
-<p align="center">
-  <i>Open to DevOps and cloud engineering opportunities.</i>
-</p>
+<p align="center"><i>Open to DevOps and cloud engineering opportunities.</i></p>
