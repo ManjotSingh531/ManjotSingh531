@@ -1,24 +1,64 @@
-# 💫 About Me:
-DevOps Engineer Intern and Computer Science undergraduate (B.Tech, 2026) with hands-on experience deploying and managing<br>AWS cloud infrastructure across 4+ production projects. Proven ability to automate workflows, reduce deployment times by 55%+,<br>and improve team delivery velocity — seeking a DevOps Engineer role to build systems that scale to millions of users.
+<h1 align="center">Hi, I'm Manjot Singh 👋</h1>
 
+<p align="center">
+  <strong>DevOps Engineer | Cloud & Infrastructure Enthusiast</strong>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manjot_singh531) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manjot-singh-8b15aa2a9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manjotsingh531) 
+<p align="center">
+  I build reliable delivery pipelines and cloud environments with AWS, Docker, Kubernetes, Jenkins, and Linux.
+</p>
 
-# 💻 Tech Stack:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-# 📊 GitHub Stats:
-![ManjotSingh531's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManjotSingh531&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)```
+<p align="center">
+  <a href="https://www.linkedin.com/in/manjot-singh-8b15aa2a9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/manjotsingh531"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://github.com/ManjotSingh531"><img src="https://img.shields.io/badge/GitHub-ManjotSingh531-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-**2. The profile README repo might be missing**
-Make sure you have a repo named exactly `ManjotSingh531` (same as your username) with a `README.md` inside it. That's the special repo GitHub uses to display your profile.
+## About me
 
-**3. Vercel API rate limit**
-`github-readme-stats` is a community-hosted service that sometimes hits GitHub API rate limits. You can self-deploy it or just wait and refresh.
+- Computer Science graduate (B.Tech, 2026) based in Punjab, India.
+- DevOps Engineer Intern experience at Ziion Technology, supporting automated application deployments and Linux-based production environments.
+- Reduced deployment time by 55%+ by standardizing CI/CD workflows and automation.
+- Interested in cloud infrastructure, container orchestration, monitoring, and dependable release engineering.
+
+## What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git,github,nginx,mysql,mongodb,prometheus,grafana" alt="AWS, Docker, Kubernetes, Jenkins, Linux, Bash, Git, GitHub, Nginx, MySQL, MongoDB, Prometheus, and Grafana" />
+</p>
+
+## Selected work
+
+### Real-Time Chat Application — DevOps Project
+Containerized frontend, backend, and MongoDB services, then deployed them to Kubernetes with Deployments, Services, Persistent Volumes, and Persistent Volume Claims. Built a Jenkins pipeline to build and publish Docker images, deploy updates, and verify pod health.
+
+### Jenkins CI/CD Pipeline with Maven & Tomcat
+Designed a multi-stage pipeline for Java applications: compile, test, and deploy. Jenkins triggers from Git commits and deploys WAR artifacts to Apache Tomcat, with failure notifications for release visibility.
+
+### Kubernetes Cluster Administration
+Managed Kubernetes workloads with Deployments, Services, Ingress, ConfigMaps, Secrets, health probes, autoscaling, and RBAC. Used Helm for application deployments and Prometheus/Grafana for monitoring and troubleshooting.
+
+### Tourism Website Hosted on AWS
+Deployed a responsive static website to AWS EC2 using Docker and Nginx, with custom-domain DNS configuration and Linux server administration.
+
+## Currently focused on
+
+- Building repeatable CI/CD pipelines and infrastructure automation.
+- Deepening Kubernetes administration and production monitoring skills.
+- Creating cloud-native projects that emphasize reliability, observability, and clean deployment workflows.
+
+## GitHub activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManjotSingh531&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Manjot Singh's GitHub statistics" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManjotSingh531&hide_border=true" alt="Manjot Singh's GitHub contribution streak" />
+</p>
 
 ---
 
-**To quickly test** — paste this directly in your browser:
-```
-https://github-readme-stats.vercel.app/api?username=ManjotSingh531&theme=dark
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <i>Open to DevOps and cloud engineering opportunities.</i>
+</p>
