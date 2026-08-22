@@ -5,6 +5,7 @@
 <p align="center">I build reliable delivery pipelines and cloud environments with AWS, Docker, Kubernetes, Jenkins, and Linux.</p>
 
 <p align="center">
+  <a href="https://manjotsingh-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2E7D32?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/manjot-singh-8b15aa2a9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/manjotsingh531"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/ManjotSingh531"><img src="https://img.shields.io/badge/GitHub-ManjotSingh531-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
